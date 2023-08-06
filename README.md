@@ -22,7 +22,7 @@ Text2Talk uses the ResponsiveVoice API for text-to-speech conversion. We would l
 
 
 ## Demo
-You can view the live demo of the website at https://ca28ad4f.madhan.pages.dev/
+You can view the live demo of the website at https://7531a8df.text2talk.pages.dev/
 
 
 ## Installation
